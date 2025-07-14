@@ -65,7 +65,7 @@ const educationInfo = {
   schools: [
     {
       schoolName: "STMIK Mardira Indonesia",
-      logo: require("https://www.stmik-mi.ac.id/image/logo.png"),
+      logo: require("https://drive.google.com/file/d/1MjcdkYfZbu3glX-ex73R9WAqjBsqN_B7/view?usp=sharing"),
       subHeader: "Sarjana (S1) Teknik Informatika",
       duration: "September 2022 – Sekarang",
       desc: "Mahasiswa aktif dengan minat di bidang pengembangan aplikasi web dan mobile, serta pengalaman dunia kerja dan proyek nyata.",

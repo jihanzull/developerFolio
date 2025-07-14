@@ -290,7 +290,8 @@ const contactInfo = {
   title: emoji("Hubungi Saya ☎️"),
   subtitle:
     "Ingin berdiskusi tentang proyek, kerja sama, atau hanya menyapa? Kotak masuk saya selalu terbuka.",
-  email_address: "nabilajihanzulfa@gmail.com" // Ganti dengan email aktif kamu
+  email_address: "nabilajihanzulfa@gmail.com" ,// Ganti dengan email aktif kamu
+        };
 
 // Twitter Section
 

@@ -282,7 +282,7 @@ const resumeSection = {
   title: "Resume",
   subtitle: "Silakan unduh CV saya di bawah ini.",
   link: "https://drive.google.com/file/d/1m_HkqNExtzKs0gOfaIkjA24FnHs_GrWl/view?usp=sharing", // Ganti dengan link CV kamu
-  display: true
+  display: true;
 };
 
 
